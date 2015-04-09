@@ -1,4 +1,7 @@
 body {
-  background-color: red; }
+  border: 10px solid blue;
+}
 
-/*# sourceMappingURL=test.css.map */
+body {
+  background-color: red;
+}
